@@ -8,3 +8,13 @@ xgboost
 fastparquet
 boto3
 pandas
+prefect
+tqdm
+requests
+joblib
+pyarrow
+psycopg
+psycopg_binary
+evidently 
+numpy
+matplotlib
